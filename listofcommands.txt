@@ -1,0 +1,26 @@
+**** jellyfishTerminal v.0.1 ****
+
+LIST OF COMMANDS
+---------------------------
+MAIN
+run jellyfish / runs program: jellyfish
+
+close / close program
+---
+TEMPERATURE
+temp + / increase the temperature inside the jellyfish tank (available temperature scale 0-3).
+
+temp - / decrease the temperature inside the jellyfish tank (available temperature scale 0-3).
+---
+COMMUNICATION
+
+msg *insert message here* / send a written message to the jellyfish
+---
+CAMERA
+*mouse drag* / switch the camera angle
+
+cam main / initial camera view
+
+cam microscope / microscopical camera view of the jellyfish mesoglea
+---------------------------
+END OF LIST
